@@ -1,0 +1,2 @@
+module JungapeoHelper
+end
